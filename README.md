@@ -25,3 +25,5 @@ Well-structured classes and methods
 Purpose
 
 The main goal of this project is to strengthen core Java skills and improve understanding of software development logic using object-oriented principles.
+
+👨‍💻 Developed by **Henrique Xavier**
